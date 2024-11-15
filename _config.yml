@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Venuganalayam
+title: VenuganalayamTEST
 
 # Your name to show in the footer
 author: Some Person
@@ -20,7 +20,14 @@ author: Some Person
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  Home: "aboutme"
+  Events: 
+    - Event Schedule: "aboutme"
+    - Past Events: 
+      - Past Flute Concerts: "past_flute_concerts"
+  Media: "aboutme"
+  About: "aboutme"
+  Contact Us: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
