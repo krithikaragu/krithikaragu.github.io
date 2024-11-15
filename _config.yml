@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: VenuganalayamTEST
+title: Venuganalayam
 
 # Your name to show in the footer
 author: Some Person
@@ -20,14 +20,10 @@ author: Some Person
 ###############################################
 
 navbar-links:
-  Home: "aboutme"
+  Home: 
   Events: 
     - Event Schedule: "aboutme"
     - Past Events: 
-      - Past Flute Concerts: "past_flute_concerts"
-  Media: "aboutme"
-  About: "aboutme"
-  Contact Us: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
@@ -39,10 +35,10 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+#avatar: "/assets/img/avatar-icon.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
-round-avatar: true
+#round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
@@ -57,7 +53,7 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
+  email: "@example.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
   facebook: deanattali
   github: daattali
@@ -141,7 +137,7 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-page-col: "#FFFFFF"
+#page-col: "#171785"
 text-col: "#404040"
 link-col: "#008AFF"
 hover-col: "#0085A1"
@@ -158,7 +154,7 @@ footer-hover-col: "#0085A1"
 
 #navbar-img: "/assets/img/bgimage.png"
 #footer-img: "/assets/img/bgimage.png"
-#page-img: "/assets/img/bgimage.png"
+page-img: "/assets/img/peacock1.png"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
 #mobile-theme-col: "#0085A1"
