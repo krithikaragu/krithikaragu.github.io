@@ -2,7 +2,7 @@ main:
   - title: "Home"
     url: /posts/
   - title: "Events"
-    url: /arangetrams/
+    url: /portfolio/
   - title: "Media"
     url: /tags/
   - title: "About"
