@@ -1,9 +1,11 @@
 main:
-  - title: "Posts"
+  - title: "Home"
     url: /posts/
-  - title: "Categories"
+  - title: "Events"
     url: /categories/
-  - title: "Tags"
+  - title: "Media"
     url: /tags/
   - title: "About"
     url: /about/
+  - title: "Contact Us"
+    url: /contactus/
