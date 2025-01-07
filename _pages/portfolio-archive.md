@@ -1,5 +1,5 @@
 ---
-title: Portfolio
+title: Arangetrams
 layout: collection
 permalink: /portfolio/
 collection: portfolio
