@@ -1,6 +1,6 @@
 ---
 title: "Intha Saukhyamani"
-excerpt: "Baz Boom design system including logo mark, website design, and branding applications."
+excerpt: "Ahil Ganesh, May 2008"
 header:
   image: /assets/images/ganesh.jpg
   teaser: assets/images/ganesh.jpg
