@@ -6,8 +6,8 @@ header:
   teaser: assets/images/ganesh.jpg
 sidebar:
   - title: "Ahil Ganesh"
-    image: http://placehold.it/350x250
-    image_alt: "logo"
+#    image: http://placehold.it/350x250
+#    image_alt: "logo"
     text: "May 3rd, 2008"
     text: "Burton Auditorium, York University"
 #gallery:
