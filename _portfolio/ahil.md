@@ -3,7 +3,7 @@ title: "Intha Saukhyamani"
 excerpt: "Baz Boom design system including logo mark, website design, and branding applications."
 header:
   image: /assets/images/ganesh.jpg
-  teaser: assets/images/appa.jpg
+  teaser: assets/images/ganesh.jpg
 sidebar:
   - title: "Ahil Ganesh"
     image: http://placehold.it/350x250
