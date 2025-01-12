@@ -1,8 +1,10 @@
 main:
   - title: "Home"
     url: "/"
-  - title: "Events"
+  - title: "Arangetrams"
     url: /portfolio/
+  - title: "Concerts"
+    url: /concerts/
   - title: "Media"
     url: /tags/
   - title: "About"
