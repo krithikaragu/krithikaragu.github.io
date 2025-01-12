@@ -91,6 +91,9 @@ footer:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: "https://www.facebook.com/p/Venuganalayam-Flute-100069141712039/?locale=en_GB"
+    - label: "Youtube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/@venuganalayam6742"
 
 defaults:
   # _posts
