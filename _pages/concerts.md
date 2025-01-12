@@ -1,6 +1,6 @@
 ---
 permalink: /concerts/
-title: "Concerts"
+title: "Past Flute Concerts"
 ---
 | Performers | Date | Venue |
 |------------|------|-------|
