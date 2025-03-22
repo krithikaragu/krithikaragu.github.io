@@ -26,3 +26,11 @@ body {
   margin: 0 auto !important;
   display: block !important;
 }
+
+.feature__item img[src$="ganesh.jpg"] {
+  width: 120% !important; /* explicitly force resize */
+  height: auto !important;
+  margin: 0 auto !important;
+  display: block !important;
+}
+
