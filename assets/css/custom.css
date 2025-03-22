@@ -21,7 +21,7 @@ body {
 }
 
 .feature__item img[src*="appa.jpg"] {
-  max-width: 70%; /* Adjust this percentage as needed */
+  max-width: 50%; /* Adjust this percentage as needed */
   height: auto;
   margin: 0 auto; /* centers image horizontally */
   display: block;
