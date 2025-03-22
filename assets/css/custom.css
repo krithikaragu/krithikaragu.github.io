@@ -34,3 +34,8 @@ body {
   display: block !important;
 }
 
+.masthead .greedy-nav a,
+.masthead__menu-item,
+.greedy-nav__link {
+  font-weight: bold !important;
+}
