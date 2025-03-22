@@ -5,3 +5,12 @@ body {
   background-attachment: fixed;
   background-color: #cce4f6; /* fallback color */
 }
+.masthead {
+  background-color: transparent !important;
+  box-shadow: none !important;
+}
+
+.greedy-nav {
+  background-color: transparent !important;
+  box-shadow: none !important;
+}
