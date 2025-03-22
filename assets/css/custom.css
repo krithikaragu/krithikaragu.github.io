@@ -5,12 +5,17 @@ body {
   background-attachment: fixed;
   background-color: #cce4f6; /* fallback color */
 }
+
 .masthead,
-.greedy-nav,
-.greedy-nav__toggle,
+.masthead__inner-wrap,
+.masthead .greedy-nav,
 .site-header {
   background: transparent !important;
   background-color: transparent !important;
   box-shadow: none !important;
   border-bottom: none !important;
+}
+
+.masthead__inner-wrap {
+  background-color: transparent !important;
 }
