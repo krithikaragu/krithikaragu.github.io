@@ -1,0 +1,31 @@
+---
+title: "Meevalla Guna Dosha"
+excerpt: "Baz Boom design system including logo mark, website design, and branding applications."
+header:
+  image: /assets/images/unsplash-gallery-image-1.jpg
+  teaser: assets/images/ganesh.jpg
+sidebar:
+  - title: "Niron Sukumar and Mithushan Sukumar"
+    image: http://placehold.it/350x250
+    image_alt: "logo"
+    text: "September 8th, 2012"
+    text: "Milton Centre for the Arts, Milton"
+#gallery:
+#  - url: /assets/images/unsplash-gallery-image-1.jpg
+#    image_path: assets/images/unsplash-gallery-image-1-th.jpg
+#    alt: "placeholder image 1"
+#  - url: /assets/images/unsplash-gallery-image-2.jpg
+#    image_path: assets/images/unsplash-gallery-image-2-th.jpg
+#    alt: "placeholder image 2"
+#  - url: /assets/images/unsplash-gallery-image-3.jpg
+#    image_path: assets/images/unsplash-gallery-image-3-th.jpg
+#    alt: "placeholder image 3"
+---
+Violin: B.U. Ganesh Prasad 
+Mridangam: Shriram Brahmanandam 
+Ghatam: R.N. Prakash
+
+Meevalla Guna Dosha
+Raagam: Kapi
+Thalam: Kanda Chapu
+Composer: Thyagaraja
