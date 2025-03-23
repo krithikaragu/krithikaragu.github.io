@@ -1,9 +1,9 @@
 ---
-title: "Vijayambike"
+title: "Neekela Dayaraadu"
 excerpt: "Dilshaayee and Dananjay, 2014"
 header:
   image: /assets/images/unsplash-gallery-image-1.jpg
-  #teaser: assets/images/ganesh.jpg
+  teaser: assets/images/ganesh.jpg
 sidebar:
   - title: "Dilshaayee and Dananjay Prabaharan"
     image: http://placehold.it/350x250
