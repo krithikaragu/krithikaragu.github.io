@@ -46,14 +46,14 @@ body {
   font-size: 1.5rem !important; /* Adjust as desired */
   text-align: center; /* optional centering */
 }
-.home-title-icon, img.home-title-icon {
+
+h1.home-title + img.home-title-icon {
   display: block !important;
   margin: 10px auto 20px auto !important;
-  width: 10px !important;   /* explicitly set width */
-  height: auto !important;
+  width: 40px !important;   /* adjust as desired */
   max-width: 40px !important;
-  max-height: 40px !important;
-  opacity: 0.85;   /* Optional subtle styling */
+  height: auto !important;
+  opacity: 0.85; 
   object-fit: contain !important;
 }
 
