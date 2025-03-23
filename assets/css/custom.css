@@ -51,7 +51,6 @@ h1.home-title + img.home-title-image {
   display: block !important;
   margin: 10px auto 20px auto !important;
   width: 60px !important;   /* adjust as desired */
-  max-width: 100px !important;
   height: auto !important;
   object-fit: contain !important;
 }
