@@ -5,7 +5,7 @@ title: "About"
 <div style="float: right; width: 250px; margin-left: 20px;">
   <img src="/assets/images/appa.jpg" alt="Your alt text" style="max-width: 100%;" />
   <p>
-    Short description about this image or additional details you want on the right.
+    Venu Gana Natha Varithi, Late Sri. Suntharam Selvanayagam
   </p>
 </div>
 Dr. Thayaparan has been the sole trainer at Venuganalayam to date. Dr. Thayaparan received his initial training under the tutelage of his father and Guru the Late Sri Suntharam Selvanayagam. Dr. Thayaparan, who was honored with “Venuganavarithi” title in Canada, is an international flautist.
