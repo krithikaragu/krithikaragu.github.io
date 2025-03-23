@@ -22,11 +22,13 @@ sidebar:
 #    alt: "placeholder image 3"
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ly7FE9XFk2c?si=VdEh-xBOvw26g7rj&amp;start=696" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Violin: Srikanth Venkataraman
-Mridangam: Neyveli B. Venkatesh
-Ghatam: R.N. Prakash
 
-Nadaloludai
-Raagam: Kalyanavasantham
+Violin: Srikanth Venkataraman  
+Mridangam: Neyveli B. Venkatesh  
+Ghatam: R.N. Prakash  
+
+
+Nadaloludai  
+Raga: Kalyanavasantham  
 Thalam: Rupakam
 Composer: Thyagaraja
