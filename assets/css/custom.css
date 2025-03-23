@@ -33,6 +33,16 @@ body {
   margin: 0 auto !important;
   display: block !important;
 }
+.home-title {
+  font-family: 'Playfair Display', serif;
+  font-weight: bold;
+}
+
+.home-subtitle {
+  font-family: 'Lora', serif;
+  font-style: italic;
+}
+
 
 .masthead .greedy-nav a,
 .masthead__menu-item,
