@@ -47,12 +47,13 @@ body {
   text-align: center; /* optional centering */
 }
 .home-title-icon {
-  display: block;
-  margin: 10px auto 20px auto;
+  display: block !important;
+  margin: 10px auto 20px auto !important;
   width: 10px !important;     /* Smaller than subtitle */
   height: auto !important;
   max-height: 40px !important;
   opacity: 0.85;   /* Optional subtle styling */
+  object-fit: contain !important;
 }
 
 .home-subtitle {
