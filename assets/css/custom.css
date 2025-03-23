@@ -52,6 +52,9 @@ body {
   font-family: 'Lora', serif;
   font-style: italic;
 }
+.swiper.mySwiper {
+  margin-bottom: 40px; /* Adjust the value for more/less space */
+}
 
 
 .masthead .greedy-nav a,
