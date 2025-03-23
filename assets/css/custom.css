@@ -49,8 +49,9 @@ body {
 .home-title-icon {
   display: block;
   margin: 10px auto 20px auto;
-  width: 40px;     /* Smaller than subtitle */
-  height: auto;
+  width: 40px !important;     /* Smaller than subtitle */
+  height: auto !important;
+  max-height: 40px !important;
   opacity: 0.85;   /* Optional subtle styling */
 }
 
