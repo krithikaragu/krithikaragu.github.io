@@ -46,7 +46,13 @@ body {
   font-size: 1.5rem !important; /* Adjust as desired */
   text-align: center; /* optional centering */
 }
-
+.home-title-icon {
+  display: block;
+  margin: 10px auto 20px auto;
+  width: 40px;     /* Smaller than subtitle */
+  height: auto;
+  opacity: 0.85;   /* Optional subtle styling */
+}
 
 .home-subtitle {
   font-family: 'Lora', serif;
