@@ -48,6 +48,7 @@ body {
 }
 
 h2.home-subtitle + img.home-title-image {
+  all: unset;
   display: block !important;
   margin: 10px auto 20px auto !important;
   width: 100px !important;   /* adjust as desired */
