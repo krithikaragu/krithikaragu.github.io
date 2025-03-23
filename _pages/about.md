@@ -3,7 +3,7 @@ permalink: /about/
 title: "About"
 ---
 <div style="float: right; width: 250px; margin-left: 20px;">
-  <img src="/path/to/appa.jpg" alt="Your alt text" style="max-width: 100%;" />
+  <img src="/assets/images/appa.jpg" alt="Your alt text" style="max-width: 100%;" />
   <p>
     Short description about this image or additional details you want on the right.
   </p>
