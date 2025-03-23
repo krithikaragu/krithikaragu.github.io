@@ -2,8 +2,8 @@
 title: "Vijayambike"
 excerpt: "Ganesh Ravendranathan, 2012"
 header:
-  image: /assets/images/unsplash-gallery-image-1.jpg
-  #teaser: assets/images/ganesh.jpg
+  #image: /assets/images/unsplash-gallery-image-1.jpg
+  teaser: assets/images/ganesh.jpg
 sidebar:
   - title: "Ganesh Ravendranathan"
     image: http://placehold.it/350x250
@@ -21,11 +21,15 @@ sidebar:
 #    image_path: assets/images/unsplash-gallery-image-3-th.jpg
 #    alt: "placeholder image 3"
 ---
-Violin: Srikanth Venkataraman
-Mridangam: Neyveli B. Venkatesh
-Ghatam: Ravi Balasubramanian
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zeMiCOLz3j8?si=Tdr-FVKcTtMijlCJ&amp;start=134" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Vijayambike
-Ragam: vijayanaagari
-Thalam: Adhi
+Violin: Srikanth Venkataraman  
+Mridangam: Neyveli B. Venkatesh  
+Ghatam: Ravi Balasubramanian  
+
+Vijayambike  
+Ragam: vijayanaagari  
+Thalam: Adhi  
 Composer: H.N. Muttiah Bhaagavatar
+
+
