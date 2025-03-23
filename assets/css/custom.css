@@ -36,7 +36,17 @@ body {
 .home-title {
   font-family: 'Playfair Display', serif;
   font-weight: bold;
+  font-size: 3.5rem; /* Adjust as needed */
+  text-align: center; /* optional centering */
 }
+
+.home-subtitle {
+  font-family: 'Lora', serif;
+  font-style: italic;
+  font-size: 1.5rem; /* Adjust as desired */
+  text-align: center; /* optional centering */
+}
+
 
 .home-subtitle {
   font-family: 'Lora', serif;
