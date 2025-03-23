@@ -1,14 +1,14 @@
 ---
-title: "Nadaloludai"
-excerpt: "Bhranavi Arulratnam, 2014"
+title: "Mara Vairi Ramani"
+excerpt: "Ujash Sooriyakumaran, 2015"
 header:
   #image: /assets/images/unsplash-gallery-image-1.jpg
   teaser: assets/images/ganesh.jpg
 sidebar:
-  - title: "Bhranavi Arulratnam"
+  - title: "Ujash Sooriyakumaran"
     image: http://placehold.it/350x250
     image_alt: "logo"
-    text: "October 6th, 2013"
+    text: "October 10th, 2015"
     text: "Richmond Hill Center for the Performing Arts"
 #gallery:
 #  - url: /assets/images/unsplash-gallery-image-1.jpg
