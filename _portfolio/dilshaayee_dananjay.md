@@ -23,11 +23,11 @@ sidebar:
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/btvJWlwMSdQ?si=tA7_PyhdagNnvYxb&amp;start=133" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Violin: B.U. Ganesh Prasad
-Mridangam: Trivandrum.V.Balaji
-Ghatam: Adambakkam Shankar
+Violin: B.U. Ganesh Prasad  
+Mridangam: Trivandrum.V.Balaji  
+Ghatam: Adambakkam Shankar  
 
-Neekela Dayaraadu
-Ragam: Sarasangi
-Thalam: Kanda Chapu
-Composer: Ramaswami Shivan
+Neekela Dayaraadu  
+Ragam: Sarasangi  
+Thalam: Kanda Chapu  
+Composer: Ramaswami Shivan  
