@@ -64,6 +64,22 @@ h2.home-subtitle + img.home-title-image {
   margin-bottom: 40px; /* Adjust the value for more/less space */
 }
 
+.home-blurb {
+  /* centering */
+  max-width: 800px;      /* keeps lines readable on large screens */
+  margin: 1.5rem auto;   /* auto left/right centers; adds top/bottom space */
+  text-align: center;
+
+  /* backdrop */
+  background: rgba(255, 255, 255, 0.8);  /* white @ 80 % opacity */
+  padding: 1.25rem 2rem;
+  border-radius: 0.5rem; /* softened corners */
+
+  /* optional polish */
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  line-height: 1.55;
+}
+
 
 .masthead .greedy-nav a,
 .masthead__menu-item,
