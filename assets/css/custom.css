@@ -68,7 +68,7 @@ h2.home-subtitle + img.home-title-image {
   /* centering */
   max-width: 800px;      /* keeps lines readable on large screens */
   margin: 1.5rem auto;   /* auto left/right centers; adds top/bottom space */
-  text-align: center;
+  text-align: justify;
 
   /* backdrop */
   background: rgba(255, 255, 255, 0.8);  /* white @ 80 % opacity */
