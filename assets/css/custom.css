@@ -71,7 +71,7 @@ h2.home-subtitle + img.home-title-image {
   width: 90%;
   font-family: 'Playfair Display';
   font-size: 0.45rem;  
-  text-align: justify;
+  text-align: left;
 
   /* backdrop */
   background: rgba(255, 255, 255, 0.8);  /* white @ 80 % opacity */
