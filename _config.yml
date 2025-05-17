@@ -23,6 +23,11 @@ twitter_username: username
 github_username: username
 minimal_mistakes_skin: default
 search: true
+# Google Fonts the theme should request
+google_fonts:
+  - family: "Playfair Display"
+    variants: "400,700"   # normal + bold
+
 
 custom_css:
   - /assets/css/custom.css   # path is from the site root
