@@ -82,24 +82,23 @@ h2.home-subtitle + img.home-title-image {
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
   line-height: 1.55;
 }
-/* ---- global (phones/tablets) ---- */
-.author__avatar{
-  width: 72px;          /* enlarge the wrapper */
-  height: 72px;
-}
+
+/* phones/tablets */
+.author__avatar,
 .author__avatar img{
-  max-width: 72px;      /* let the picture grow too */
-  border-radius: 50%;   /* keep it round */
+  width: 80px !important;
+  height: 80px !important;
+  max-width: 80px !important;
+  border-radius: 50%;
 }
 
-/* ---- desktops and up ---- */
-@media (min-width: 64em){        /* same breakpoint the theme uses */
-  .author__avatar{
-    width: 120px;
-    height: 120px;
-  }
+/* desktops (theme’s $large = 64em) */
+@media (min-width: 64em){
+  .author__avatar,
   .author__avatar img{
-    max-width: 120px;
+    width: 140px !important;
+    height: 140px !important;
+    max-width: 140px !important;
   }
 }
 
