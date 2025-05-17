@@ -69,6 +69,7 @@ h2.home-subtitle + img.home-title-image {
   max-width: 800px;      /* keeps lines readable on large screens */
   margin: 1.5rem auto;   /* auto left/right centers; adds top/bottom space */
   font-family: 'Playfair Display', serif;
+  font-size: 0.75rem;  
   text-align: justify;
 
   /* backdrop */
