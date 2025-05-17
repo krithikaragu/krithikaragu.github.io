@@ -82,6 +82,27 @@ h2.home-subtitle + img.home-title-image {
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
   line-height: 1.55;
 }
+/* ---- global (phones/tablets) ---- */
+.author__avatar{
+  width: 72px;          /* enlarge the wrapper */
+  height: 72px;
+}
+.author__avatar img{
+  max-width: 72px;      /* let the picture grow too */
+  border-radius: 50%;   /* keep it round */
+}
+
+/* ---- desktops and up ---- */
+@media (min-width: 64em){        /* same breakpoint the theme uses */
+  .author__avatar{
+    width: 120px;
+    height: 120px;
+  }
+  .author__avatar img{
+    max-width: 120px;
+  }
+}
+
 
 
 .masthead .greedy-nav a,
