@@ -70,7 +70,7 @@ h2.home-subtitle + img.home-title-image {
   margin: 1.5rem auto;   /* auto left/right centers; adds top/bottom space */
   width: 90%;
   font-family: 'Playfair Display';
-  font-size: 0.45rem;  
+  font-size: 0.75rem;  
   text-align: left;
 
   /* backdrop */
