@@ -24,6 +24,9 @@ github_username: username
 minimal_mistakes_skin: default
 search: true
 
+custom_css:
+  - /assets/css/custom.css   # path is from the site root
+
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
