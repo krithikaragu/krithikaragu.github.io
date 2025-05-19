@@ -1,7 +1,7 @@
 ---
 permalink: /about/
 title: "About"
-author_profile: true
+author_profile: false
 ---
 
 ![Dr. Selva Thayaparan](/assets/images/thayaparan_master.jpg){: width="250px" .align-right }
