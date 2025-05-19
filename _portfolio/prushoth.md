@@ -1,5 +1,5 @@
 ---
-title: "Marivarire"
+title: "Marivere"
 excerpt: "Prushoth Uthayashankar, 2017"
 header:
   #image: /assets/images/unsplash-gallery-image-1.jpg
