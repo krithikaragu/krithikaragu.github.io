@@ -2,8 +2,8 @@
 title: "Mara Vairi Ramani"
 excerpt: "Ujash Sooriyakumaran, 2015"
 header:
-  #image: /assets/images/unsplash-gallery-image-1.jpg
-  teaser: assets/images/ujash.jpg
+  image: /assets/images/ujash.jpg
+  teaser: /assets/images/ujash.jpg
 sidebar:
   - title: "Ujash Sooriyakumaran"
     image: http://placehold.it/350x250
