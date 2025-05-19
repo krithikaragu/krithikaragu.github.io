@@ -2,7 +2,7 @@
 title: "Nadaloludai"
 excerpt: "Bhranavi Arulratnam, 2014"
 header:
-  #image: /assets/images/unsplash-gallery-image-1.jpg
+  image: /assets/images/bhranavi.jpg
   teaser: assets/images/bhranavi.jpg
 sidebar:
   - title: "Bhranavi Arulratnam"
