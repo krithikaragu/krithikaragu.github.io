@@ -6,8 +6,8 @@ header:
   teaser: /assets/images/ujash.jpg
 sidebar:
   - title: "Ujash Sooriyakumaran"
-    image: http://placehold.it/350x250
-    image_alt: "logo"
+    #image: http://placehold.it/350x250
+    #image_alt: "logo"
     text: "October 10th, 2015"
     text: "Richmond Hill Center for the Performing Arts"
 #gallery:
@@ -30,5 +30,5 @@ Ghatam: R.N. Prakash
 
 Mara Vairi Ramani  
 Raga: Nasikabhushani  
-Thalam: Rupakam
-Composer: Thyagaraja
+Thalam: Rupakam  
+Composer: Thyagaraja  
