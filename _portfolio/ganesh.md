@@ -2,7 +2,7 @@
 title: "Vijayambike"
 excerpt: "Ganesh Ravendranathan, 2012"
 header:
-  #image: /assets/images/unsplash-gallery-image-1.jpg
+  image: /assets/images/ganesh.jpg
   teaser: assets/images/ganesh.jpg
 sidebar:
   - title: "Ganesh Ravendranathan"
