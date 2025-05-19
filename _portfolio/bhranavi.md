@@ -6,8 +6,8 @@ header:
   teaser: assets/images/bhranavi.jpg
 sidebar:
   - title: "Bhranavi Arulratnam"
-    image: http://placehold.it/350x250
-    image_alt: "logo"
+    #image: http://placehold.it/350x250
+    #image_alt: "logo"
     text: "October 6th, 2013"
     text: "Richmond Hill Center for the Performing Arts"
 #gallery:
