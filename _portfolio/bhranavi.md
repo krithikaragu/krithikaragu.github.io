@@ -2,8 +2,8 @@
 title: "Nadaloludai"
 excerpt: "Bhranavi Arulratnam, 2014"
 header:
-  image: /assets/images/unsplash-gallery-image-1.jpg
-  teaser: assets/images/ganesh.jpg
+  #image: /assets/images/unsplash-gallery-image-1.jpg
+  teaser: assets/images/bhranavi.jpg
 sidebar:
   - title: "Bhranavi Arulratnam"
     image: http://placehold.it/350x250
