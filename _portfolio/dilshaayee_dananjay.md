@@ -6,8 +6,8 @@ header:
   teaser: assets/images/dil.jpg
 sidebar:
   - title: "Dilshaayee and Dananjay Prabaharan"
-    image: http://placehold.it/350x250
-    image_alt: "logo"
+    #image: http://placehold.it/350x250
+    #image_alt: "logo"
     text: "August 30th, 2014"
     text: "Flato Markham Theatre, Markham, ON"
 #gallery:
