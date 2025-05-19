@@ -2,7 +2,7 @@
 title: "Neekela Dayaraadu"
 excerpt: "Dilshaayee and Dananjay, 2014"
 header:
-  #image: /assets/images/unsplash-gallery-image-1.jpg
+  image: /assets/images/dil.jpg
   teaser: assets/images/dil.jpg
 sidebar:
   - title: "Dilshaayee and Dananjay Prabaharan"
