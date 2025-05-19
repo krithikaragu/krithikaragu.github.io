@@ -1,13 +1,13 @@
 ---
-title: "Vasudevayani"
+title: "Marivarire"
 excerpt: "Prushoth Uthayashankar, 2017"
 header:
   #image: /assets/images/unsplash-gallery-image-1.jpg
   teaser: assets/images/ganesh.jpg
 sidebar:
   - title: "Prushoth Uthayashankar"
-    image: http://placehold.it/350x250
-    image_alt: "logo"
+    #image: http://placehold.it/350x250
+    #image_alt: "logo"
     text: "May 20th, 2017"
     text: "Richmond Hill Center for the Performing Arts"
 #gallery:
@@ -28,7 +28,7 @@ Mridangam: Patri Satish Kumar
 Ghatam: R.N. Prakash  
 
 
-Vasudevayani  
+Marivere  
 Raga: Lathangi  
-Thalam: Kanda Chapu
-Composer: Patnam Subramanya Aiyyar
+Thalam: Khanda Chapu  
+Composer: Patnam Subramanya Aiyyar  
