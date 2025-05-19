@@ -6,8 +6,8 @@ header:
   teaser: assets/images/ganesh.jpg
 sidebar:
   - title: "Ganesh Ravendranathan"
-    image: http://placehold.it/350x250
-    image_alt: "logo"
+    #image: http://placehold.it/350x250
+    #image_alt: "logo"
     text: "April 8th, 2012"
     text: "Chinese Cultural Center, Toronto"
 #gallery:
