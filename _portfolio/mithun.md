@@ -6,8 +6,8 @@ header:
   teaser: assets/images/ganesh.jpg
 sidebar:
   - title: "Mithun Kabaleeswaran"
-    image: http://placehold.it/350x250
-    image_alt: "logo"
+    #image: http://placehold.it/350x250
+    #image_alt: "logo"
     text: "May 20th, 2017"
     text: "Richmond Hill Center for the Performing Arts"
 #gallery:
