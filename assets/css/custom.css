@@ -4,7 +4,9 @@ body {
   background-size: auto;
   background-attachment: fixed;
   background-color: #cce4f6; /* fallback color */
+  color: #FFFFFF;
 }
+
 
 .masthead,
 .masthead__inner-wrap,
@@ -111,6 +113,4 @@ h2.home-subtitle + img.home-title-image {
 }
 
 
-body {
-  color: #FFFFFF;   /* <-- replace with your hex     */
-}
+
