@@ -109,3 +109,8 @@ h2.home-subtitle + img.home-title-image {
 .greedy-nav__link {
   font-weight: bold !important;
 }
+
+
+body {
+  color: #FFFFFF;   /* <-- replace with your hex     */
+}
