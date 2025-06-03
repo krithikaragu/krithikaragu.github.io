@@ -16,7 +16,7 @@ body {
   background-color: transparent !important;
   box-shadow: none !important;
   border-bottom: none !important;
-  color: #FFFFFF;
+  color: #FFFFFF !important;
 }
 
 .masthead__inner-wrap {
