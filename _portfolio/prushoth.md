@@ -1,6 +1,6 @@
 ---
 title: "Marivere"
-excerpt: "Prushoth Uthayashankar, 2017"
+excerpt: "2017, Prushoth Uthayashankar"
 header:
   #image: /assets/images/unsplash-gallery-image-1.jpg
   teaser: assets/images/prushoth.jpg
