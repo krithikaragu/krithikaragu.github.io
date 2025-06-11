@@ -1,6 +1,7 @@
 ---
 title: "Mara Vairi Ramani"
-excerpt: "2015, Ujash Sooriyakumaran"
+excerpt: "Ujash Sooriyakumaran, 2015"
+date: 2015-10-10
 header:
   image: /assets/images/ujash.jpg
   teaser: /assets/images/ujash.jpg
