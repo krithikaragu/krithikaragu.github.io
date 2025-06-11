@@ -1,6 +1,6 @@
 ---
 title: "Nadaloludai"
-excerpt: "Bhranavi Arulratnam, 2014"
+excerpt: "2014, Bhranavi Arulratnam"
 header:
   image: /assets/images/bhranavi.jpg
   teaser: assets/images/bhranavi.jpg
