@@ -1,6 +1,7 @@
 ---
 title: "Intha Saukhyamani"
-excerpt: "2008, Ahil Ganesh"
+excerpt: "Ahil Ganesh, 2008"
+date: 2008-05-03
 header:
   image: /assets/images/ahil.jpg
   teaser: assets/images/ahil.jpg
