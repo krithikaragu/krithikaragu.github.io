@@ -3,7 +3,7 @@ title: "Vasudevayani"
 excerpt: "Mithun Kabaleeswaran, 2017"
 header:
   #image: /assets/images/unsplash-gallery-image-1.jpg
-  teaser: assets/images/ganesh.jpg
+  teaser: assets/images/mithun.png
 sidebar:
   - title: "Mithun Kabaleeswaran"
     #image: http://placehold.it/350x250
