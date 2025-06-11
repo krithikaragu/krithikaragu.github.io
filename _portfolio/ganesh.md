@@ -1,6 +1,6 @@
 ---
 title: "Vijayambike"
-excerpt: "Ganesh Ravendranathan, 2012"
+excerpt: "2012, Ganesh Ravendranathan"
 header:
   image: /assets/images/ganesh.jpg
   teaser: assets/images/ganesh.jpg
