@@ -1,6 +1,6 @@
 ---
 title: "Kalai Gnyanam Arul Vaaye"
-excerpt: "Tanya Sukumar Aloysius, May 2005"
+excerpt: "2005, Tanya Sukumar Aloysius"
 header:
   image: /assets/images/tanya.jpg
   teaser: assets/images/tanya.jpg
