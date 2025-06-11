@@ -1,6 +1,6 @@
 ---
 title: "Neekela Dayaraadu"
-excerpt: "Dilshaayee and Dananjay, 2014"
+excerpt: "2014, Dilshaayee and Dananjay"
 header:
   image: /assets/images/dil.jpg
   teaser: assets/images/dil.jpg
