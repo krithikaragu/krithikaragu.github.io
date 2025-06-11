@@ -1,6 +1,6 @@
 ---
 title: "Vasudevayani"
-excerpt: "Mithun Kabaleeswaran, 2017"
+excerpt: "2017, Mithun Kabaleeswaran"
 header:
   #image: /assets/images/unsplash-gallery-image-1.jpg
   teaser: assets/images/mithun.png
