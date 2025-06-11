@@ -113,5 +113,20 @@ h2.home-subtitle + img.home-title-image {
   font-weight: bold !important;
 }
 
+/* shrink just this figure’s image */
+.small-appa {
+  /* pick ONE of the next two lines */
+  /* width: 120px;            /* absolute size */
+  max-width: 20%;             /* % of the page width */
+
+  height: auto;               /* keep aspect ratio */
+}
+
+/* optional: make caption text match the smaller look */
+.appa-block figcaption {
+  font-size: 0.8rem;          /* tweak as desired */
+}
+
+
 
 
