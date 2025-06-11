@@ -113,6 +113,9 @@ h2.home-subtitle + img.home-title-image {
   font-weight: bold !important;
 }
 
+.appa-block          { text-align: center; }
+.home-title-image    { display: block; margin: 0 auto; }
+
 /* shrink just this figure’s image */
 .small-appa {
   /* pick ONE of the next two lines */
