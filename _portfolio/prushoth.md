@@ -3,7 +3,7 @@ title: "Marivere"
 excerpt: "Prushoth Uthayashankar, 2017"
 header:
   #image: /assets/images/unsplash-gallery-image-1.jpg
-  teaser: assets/images/ganesh.jpg
+  teaser: assets/images/prushoth.jpg
 sidebar:
   - title: "Prushoth Uthayashankar"
     #image: http://placehold.it/350x250
