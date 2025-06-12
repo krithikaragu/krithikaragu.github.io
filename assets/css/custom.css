@@ -4,7 +4,7 @@ body {
   background-size: auto;
   background-attachment: fixed;
   background-color: #cce4f6; /* fallback color */
-  color: #FFFFFF;
+  color: #F4C650;
 }
 
 
@@ -16,11 +16,11 @@ body {
   background-color: transparent !important;
   box-shadow: none !important;
   border-bottom: none !important;
-  color: #FFFFFF !important;
+  color: #F4C650 !important;
 }
 .page__title,
 .page__title a {      /* anchor inside the title */
-  color:#ffffff !important;
+  color:#F4C650 !important;
 }
 .masthead__inner-wrap {
   background-color: transparent !important;
