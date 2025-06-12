@@ -145,7 +145,7 @@ h2.home-subtitle + img.home-title-image {
 /* Home page hero — cap banner height & stop full-bleed zoom */
 .home .page__hero--overlay {
   /* 1️⃣ shrink the hero box itself */
-  min-height: 250px;          /* pick the height you want */
+  min-height: 180px;          /* pick the height you want */
   padding: 0;                 /* remove the theme’s default padding */
 
   /* 2️⃣ make the background image fit, not cover */
