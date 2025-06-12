@@ -142,15 +142,14 @@ h2.home-subtitle + img.home-title-image {
   display: block;
   margin: 0 auto 2rem;  /* center + a bit of breathing room below */
 }
-/* Home page hero — cap banner height & stop full-bleed zoom */
-.home .page__hero--overlay {
-  /* 1️⃣ shrink the hero box itself */
-  min-height: 180px;          /* pick the height you want */
-  padding: 0;                 /* remove the theme’s default padding */
+/* Home-page banner size — overrides inline style */
+.home .page__hero {
+  /* shrink the hero box itself */
+  min-height: 250px !important;   /* ← pick a height you like */
+  padding: 0 !important;
 
-  /* 2️⃣ make the background image fit, not cover */
-  background-size: contain;   /* keep full image visible */
-  background-repeat: no-repeat;
-  background-position: center;
+  /* scale the background logo instead of covering */
+  background-size: contain !important;
+  background-repeat: no-repeat !important;
+  background-position: center top !important;   /* or just center */
 }
-
