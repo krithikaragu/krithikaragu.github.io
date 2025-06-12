@@ -130,6 +130,9 @@ h2.home-subtitle + img.home-title-image {
   font-size: 0.8rem;          /* tweak as desired */
 }
 
+.page__title {
+  color: #ffffff;   /* plain white */
+}
 
 
 
