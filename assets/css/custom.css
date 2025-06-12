@@ -6,6 +6,17 @@ body {
   background-color: #cce4f6; /* fallback color */
   color: #F4C650;
 }
+/* Home-page banner size — overrides inline style */
+.home .page__hero {
+  /* shrink the hero box itself */
+  min-height: 250px !important;   /* ← pick a height you like */
+  padding: 0 !important;
+
+  /* scale the background logo instead of covering */
+  background-size: contain !important;
+  background-repeat: no-repeat !important;
+  background-position: center top !important;   /* or just center */
+}
 
 
 .masthead,
@@ -142,14 +153,4 @@ h2.home-subtitle + img.home-title-image {
   display: block;
   margin: 0 auto 2rem;  /* center + a bit of breathing room below */
 }
-/* Home-page banner size — overrides inline style */
-.home .page__hero {
-  /* shrink the hero box itself */
-  min-height: 250px !important;   /* ← pick a height you like */
-  padding: 0 !important;
 
-  /* scale the background logo instead of covering */
-  background-size: contain !important;
-  background-repeat: no-repeat !important;
-  background-position: center top !important;   /* or just center */
-}
