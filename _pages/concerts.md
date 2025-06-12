@@ -7,6 +7,9 @@ author_profile: false
 ---
 | Performers | Date | Venue |
 |------------|------|-------|
+| Lacshan Sathiyasothy, Sathurshan Santhirakumar, Sinthiya Krishnakumar, Shophia Krishnakumar | March 14th, 2020 | Canada Sri Shanmuganatha Swamy Temple |
+| Gayathri Karalasingam | August 24th, 2019 | Forest Brook Community Church |
+| Prushoth Uthayashankar | June 1st, 2019 | Fairview Library Theatre |
 | Rahgull Manoragavan, Bhranavi Arulratnam | April 22nd, 2017 | Sri Varasithi Vinayagar Hindu Temple |
 | Venuganalayam Annual Program | March 25th, 2017 | Sai Illam |
 | Lacshan Sathiyasothy, Ahil Ganesh | February 18th, 2017 | Sri Varasithi Vinayagar Hindu Temple |
