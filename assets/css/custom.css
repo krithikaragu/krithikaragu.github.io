@@ -132,3 +132,14 @@ h2.home-subtitle + img.home-title-image {
 .appa-block figcaption {
   font-size: 0.8rem;          /* tweak as desired */
 }
+
+/* Home-page logo banner */
+.home-logo-banner {
+  /* shrink uniformly */
+  max-width: 450px;   /* ← tweak: try 350–600px until it feels right */
+  width: 100%;        /* keeps it responsive */
+  height: auto;       /* preserves aspect ratio */
+  display: block;
+  margin: 0 auto 2rem;  /* center + a bit of breathing room below */
+}
+
