@@ -131,7 +131,7 @@ h2.home-subtitle + img.home-title-image {
 }
 
 .page__title {
-  color: #ffffff;   /* plain white */
+  color: #ffffff !important;   /* plain white */
 }
 
 
