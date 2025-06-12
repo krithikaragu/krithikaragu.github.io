@@ -6,16 +6,14 @@ body {
   background-color: #cce4f6; /* fallback color */
   color: #F4C650;
 }
-/* Home-page banner size — overrides inline style */
-.home .page__hero {
-  /* shrink the hero box itself */
-  min-height: 250px !important;   /* ← pick a height you like */
+.home .page__hero--overlay {   // the element actually gets this class
+  min-height: 250px !important;
   padding: 0 !important;
 
-  /* scale the background logo instead of covering */
+  /* show the whole logo instead of cropping */
   background-size: contain !important;
   background-repeat: no-repeat !important;
-  background-position: center top !important;   /* or just center */
+  background-position: center top !important;  // tweak as desired
 }
 
 
