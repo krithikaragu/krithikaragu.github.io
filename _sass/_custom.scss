@@ -7,17 +7,14 @@ body {
   color: #F4C650;
 }
 
-.page__hero-image {            /* the <img> inside <section class="page__hero"> */
-  width: auto !important;      /* ⬅️ releases the hard 100 % width */
-  max-height: 250px !important;/* ⬅️ pick your target height */
-  height: auto;                /* keep aspect ratio */
-
-  /* optional polish */
+.page__hero--splash .page__hero-image {
+  width: auto !important;
+  max-height: 250px !important;
+  height: auto;
   display: block;
-  margin: 0 auto;              /* centre horizontally */
-  object-fit: contain;         /* no cropping if you ever shrink even more */
+  margin: 0 auto;
+  object-fit: contain;
 }
-
 
 
 .masthead,
