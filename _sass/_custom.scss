@@ -7,12 +7,14 @@ body {
   color: #F4C650;
 }
 
-.page__hero--image {
-  width: 50%;
-  background-size: contain !important;
-  background-repeat: no-repeat !important;
-  background-position: center top !important;
+.page__hero-image {          /* <-- matches the <img> itself */
+  max-height: 250px !important;   // pick a height you like
+  width: auto !important;         // keep aspect ratio
+  display: block;                 // centring helpers:
+  margin: 0 auto;                 //   horizontally centre
+  object-fit: contain;            //   show the whole logo
 }
+
 
 
 .masthead,
