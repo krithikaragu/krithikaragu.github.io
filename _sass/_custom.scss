@@ -7,12 +7,15 @@ body {
   color: #F4C650;
 }
 
-.page__hero-image {          /* <-- matches the <img> itself */
-  max-height: 250px !important;   // pick a height you like
-  width: auto !important;         // keep aspect ratio
-  display: block;                 // centring helpers:
-  margin: 0 auto;                 //   horizontally centre
-  object-fit: contain;            //   show the whole logo
+.page__hero-image {            /* the <img> inside <section class="page__hero"> */
+  width: auto !important;      /* ⬅️ releases the hard 100 % width */
+  max-height: 250px !important;/* ⬅️ pick your target height */
+  height: auto;                /* keep aspect ratio */
+
+  /* optional polish */
+  display: block;
+  margin: 0 auto;              /* centre horizontally */
+  object-fit: contain;         /* no cropping if you ever shrink even more */
 }
 
 
