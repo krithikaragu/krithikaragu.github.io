@@ -6,14 +6,13 @@ body {
   background-color: #cce4f6; /* fallback color */
   color: #F4C650;
 }
-.home .page__hero--overlay {   // the element actually gets this class
+
+.page__hero--overlay {
   min-height: 250px !important;
   padding: 0 !important;
-
-  /* show the whole logo instead of cropping */
   background-size: contain !important;
   background-repeat: no-repeat !important;
-  background-position: center top !important;  // tweak as desired
+  background-position: center top !important;
 }
 
 
