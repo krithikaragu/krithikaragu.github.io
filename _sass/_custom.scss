@@ -150,30 +150,5 @@ h2.home-subtitle + img.home-title-image {
   display: block;
   margin: 0 auto 2rem;  /* center + a bit of breathing room below */
 }
-/* === FEATURE-ROW ►  title ▸ image ▸ button  === */
-.feature__item .archive__item {
-  display: flex;            /* stack elements in one column   */
-  flex-direction: column;
-  align-items: center;      /* keep them centred               */
-  text-align: center;
-}
-
-/* put the H2/H3 title first */
-.feature__item .archive__item-title {
-  order: -2 !important;
-  margin-bottom: .5rem;
-}
-
-/* image in the middle */
-.feature__item .archive__item-teaser {
-  order: -1 !important;
-  margin-bottom: .5rem;
-}
-
-/* button comes last */
-.feature__item .btn {
-  order: 10 !important;
-  margin-top: .5rem;
-}
 
 
