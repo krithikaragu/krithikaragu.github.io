@@ -160,5 +160,14 @@ h2.home-subtitle + img.home-title-image {
   margin: 0 auto;        /* keep it centred */
 }
 
+/* === Concert-page table header style ===================== */
+/* scope it to this page only so other tables keep their look */
+.page-concerts .page__content table thead th,
+.page-concerts .page__content table tr:first-child th {
+  background: #F4C650;   /* yellow bar */
+  color: #ffffff;        /* white text */
+}
+
+
 
 
