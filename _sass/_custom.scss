@@ -150,18 +150,30 @@ h2.home-subtitle + img.home-title-image {
   display: block;
   margin: 0 auto 2rem;  /* center + a bit of breathing room below */
 }
-
-/* === Stack title ▶︎ image ▶︎ button inside every feature_row === */
-.feature__item .archive__item{
-  display: flex;            /* turn the item into a flex column        */
+/* === FEATURE-ROW ►  title ▸ image ▸ button  === */
+.feature__item .archive__item {
+  display: flex;            /* stack elements in one column   */
   flex-direction: column;
-  align-items: center;      /* keep everything centred                 */
+  align-items: center;      /* keep them centred               */
   text-align: center;
 }
 
-/* order the pieces */
-.feature__item .archive__item-title  { order: -2; }   /* title first   */
-.feature__item .archive__item-image  { order: -1; margin: .5rem 0; }
-.feature__item .btn                  { order:  10; margin-top: .5rem; }
+/* put the H2/H3 title first */
+.feature__item .archive__item-title {
+  order: -2 !important;
+  margin-bottom: .5rem;
+}
+
+/* image in the middle */
+.feature__item .archive__item-teaser {
+  order: -1 !important;
+  margin-bottom: .5rem;
+}
+
+/* button comes last */
+.feature__item .btn {
+  order: 10 !important;
+  margin-top: .5rem;
+}
 
 
