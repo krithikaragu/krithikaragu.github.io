@@ -160,14 +160,14 @@ h2.home-subtitle + img.home-title-image {
   margin: 0 auto;        /* keep it centred */
 }
 
-/* === Concert-page table header style ===================== */
-/* Concerts table – transparent header row */
-.page-concerts .page__content table thead th,
-.page-concerts .page__content table tr:first-child th {
-  background: transparent !important;   /* no fill behind the text   */
-  /* optional tidy-up */
-  /* border-bottom: 1px solid currentColor; */
+/* CONCERTS TABLE — transparent header row
+ * Minimal Mistakes colours header cells through
+ *   .page__content table th { background: var(--mm-table-bg); }
+ * so we need an equal-or-stronger selector plus !important.     */
+.page-concerts .page__content table th {
+  background: transparent !important;   /* hide the white fill  */
 }
+
 
 
 
