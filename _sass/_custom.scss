@@ -151,4 +151,14 @@ h2.home-subtitle + img.home-title-image {
   margin: 0 auto 2rem;  /* center + a bit of breathing room below */
 }
 
+/* custom.scss */
+.poster-md {
+  max-width: 350px;      /* fixed width */
+  width: 100%;           /* responsive downwards on phones */
+  height: auto;
+  display: block;
+  margin: 0 auto;        /* keep it centred */
+}
+
+
 
