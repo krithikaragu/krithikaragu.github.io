@@ -1,6 +1,6 @@
 ---
 title: Arangetrams
-author_profile: false
+author_profile: true
 layout: collection
 permalink: /portfolio/
 collection: portfolio
