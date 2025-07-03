@@ -71,7 +71,6 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Dr. Selva Thayaparan"
   avatar : "/assets/images/thayaparan_master.jpg"
   home   : "/about/" 
 #  bio    : "My awesome biography constrained to a sentence or two goes here."
