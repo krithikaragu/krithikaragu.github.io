@@ -151,3 +151,17 @@ h2.home-subtitle + img.home-title-image {
   margin: 0 auto 2rem;  /* center + a bit of breathing room below */
 }
 
+/* === Stack title ▶︎ image ▶︎ button inside every feature_row === */
+.feature__item .archive__item{
+  display: flex;            /* turn the item into a flex column        */
+  flex-direction: column;
+  align-items: center;      /* keep everything centred                 */
+  text-align: center;
+}
+
+/* order the pieces */
+.feature__item .archive__item-title  { order: -2; }   /* title first   */
+.feature__item .archive__item-image  { order: -1; margin: .5rem 0; }
+.feature__item .btn                  { order:  10; margin-top: .5rem; }
+
+
