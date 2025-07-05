@@ -168,6 +168,20 @@ h2.home-subtitle + img.home-title-image {
   background: transparent !important;   /* hide the white fill  */
 }
 
+/* --- Bigger site logo --------------------------------------------- */
+/* touch only the logo <img>, not the whole masthead */
+.site-logo-img {
+  max-height: 90px;   /* pick any value; default is ≈40 px */
+  width: auto;        /* keeps the aspect-ratio intact     */
+}
+
+/* optional: give phones a smaller cap so it still fits */
+@media (max-width: 37.5em) {      /* theme’s $small = 600 px */
+  .site-logo-img {
+    max-height: 60px;             /* or whatever looks good */
+  }
+}
+
 
 
 
