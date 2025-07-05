@@ -4,7 +4,7 @@ title: "About"
 author_profile: false
 ---
 
-![Dr. Selva Thayaparan](/assets/images/thayaparan_master.jpg){: width="250px" .align-right }
+![Dr. Selva Thayaparan](/assets/images/thayaparan_master-modified.png){: width="250px" .align-right }
 
 Dr. Thayaparan is a renowned international Carnatic flautist and the sole trainer at Venuganalayam to date. He received his initial training under the tutelage of his father and Guru, Late Sri Suntharam Selvanayagam and was honored with the title “Venuganavarithi” in 1998. He has performed in many organizations including Thamil Isai Kalaamanram, Bharathi Kalaamanram, Hindu Mamanram and the Royal Ontario Museum, accompanied numerous Bharatanatyam arangetrams around the world and participated in Jugalbandies and fusion concerts in Europe, Canada and the U.S.A. 
 
