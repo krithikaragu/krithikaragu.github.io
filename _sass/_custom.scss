@@ -160,6 +160,10 @@ h2.home-subtitle + img.home-title-image {
   margin: 0 auto;        /* keep it centred */
 }
 
+.masthead .site-title {
+  display: none !important;
+}
+
 /* CONCERTS TABLE — transparent header row
  * Minimal Mistakes colours header cells through
  *   .page__content table th { background: var(--mm-table-bg); }
