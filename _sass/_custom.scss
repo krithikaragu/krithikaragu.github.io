@@ -182,6 +182,17 @@ h2.home-subtitle + img.home-title-image {
   }
 }
 
+---
+---               /* keep YAML front-matter at the very top */
+
+/* ↓  Applies only to pages that use the splash layout (your home page) */
+.layout-splash .page__hero-image {
+  margin-bottom: 0.75rem !important;   /* default is ~2–3 rem */
+}
+
+.layout-splash .home-subtitle {
+  margin-top: 0.25rem !important;      /* pull the subtitle upward */
+}
 
 
 
