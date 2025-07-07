@@ -168,10 +168,12 @@ h2.home-subtitle + img.home-title-image {
   background: transparent !important;   /* hide the white fill  */
 }
 
-.layout-splash .page__hero-image {
-  margin-bottom: 0.25rem !important;   /* default is ~2–3 rem */
+/* Home page (layout: splash) — tighten the space between banner & subtitle */
+.layout--splash .page__hero {      /* wrapper that holds the <img> */
+  margin-bottom: 0.5rem !important;   /* default is ~2–3 rem */
 }
 
-.layout-splash .home-subtitle {
-  margin-top: 0.25rem !important;      /* pull the subtitle upward */
+.layout--splash .home-subtitle {   /* your H2 line */
+  margin-top: 0 !important;        /* pull subtitle upward */
 }
+
