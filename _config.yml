@@ -2,4 +2,4 @@ url: "https://krithikaragu.github.io" # the base hostname & protocol for your si
 baseurl: "" # the subpath of your site, e.g. /blog
 title: "Karrot Ragupathi" # the name of your site, e.g. ACME Corp.
 description: "University of Toronto"
-theme: academic-jekyll-theme
+remote_theme: LeNPaul/academic
