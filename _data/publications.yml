@@ -3,7 +3,7 @@ sections:
     papers:
       - title: "Permit Banking in Cap-and-Trade Markets with Auctions"
         abstract: |
-          This paper studies optimal matching mechanisms in double-auction environments with two-sided private information.
+          Cap-and-trade markets represent a unique multi-unit auction setting in which agents make intertemporal savings decisions: pollution permits won in uniform price auctions can be banked across compliance periods without expiry. In this paper, I ask how the option to bank permits affects bidding, consumption, revenues and welfare. Under the assumption of normally distributed signals and linear valuations, I solve a two-period model of repeated uniform price auctions with consumption-savings decisions. I find that when costs are convex, bidders are more price-elastic and banking effectively reduces market power and mitigates the demand reduction effect in multi-unit auctions noted in \cite{ausubel2014demand}. Further, with the option to bank, bidders are less sensitive to signals. Banked permits transmit aggregated signal noise across periods via bids which amplifies price variance over time, rather than reducing it.
 
       - title: "Revenue-Maximizing Two-Sided Matching Mechanisms"
         abstract: |
@@ -12,8 +12,6 @@ sections:
   - category: "Non-Economics"
     papers:
       - title: "Numerical Solutions of Thin Film Equations for Polymer Flows"
-        abstract: |
-          This paper studies numerical methods for thin film equations arising in polymer flow applications.
 
       - title: "Low Shear Diffusion Central Schemes for Particle Methods"
         abstract: |
