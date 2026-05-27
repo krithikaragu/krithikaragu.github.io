@@ -1,7 +1,21 @@
 ---
 layout: default
 ---
+{% for section in site.data.publications.sections %}
+  <h2>{{ section.category }}</h2>
 
-{{ content }}
+  {% for paper in section.papers %}
+    <div class="publication-item">
+      <p><strong>{{ paper.title }}</strong></p>
 
-{% include publications.html %}
+      {% if paper.abstract %}
+        <details class="publication-abstract">
+          <summary>Show abstract</summary>
+          <div class="abstract-text">
+            {{ paper.abstract | markdownify }}
+          </div>
+        </details>
+      {% endif %}
+    </div>
+  {% endfor %}
+{% endfor %}
