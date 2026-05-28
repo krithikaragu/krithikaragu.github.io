@@ -1,5 +1,2 @@
 menu:
 - {name: 'cv', url: '/cv'}
-
-social:
-- {icon: 'linkedin', link: 'https://www.linkedin.com/in/krithika-ragupathi/'}
