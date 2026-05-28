@@ -36,8 +36,6 @@ My current research interests lie at the intersection of market design and envir
 ---
 ##### Non-Economics Publications
 
-[**Ragupathi, K. (2020). Integrating Health Services in Ontario Through Mergers and Centralization. _Health Reform Observer – Observatoire des Réformes de Santé_, 8(2).**](https://mulpress.mcmaster.ca/hro-ors/article/view/4219)
+[Ragupathi, K. (2020). Integrating Health Services in Ontario Through Mergers and Centralization. _Health Reform Observer – Observatoire des Réformes de Santé_, 8(2).](https://mulpress.mcmaster.ca/hro-ors/article/view/4219)
 
-<br>
-
-[**Watkins, D., Zacharias, C., Arbabian-Urquilla, K., Ragupathi, K., Gilfix, B. M., Jimenez, D., Anastasio, N., Rivière, J.-B., & Rosenblatt, D. S. (2025). Identification of Variants of the MTR Gene in Patients with the cblG Inborn Error of Cobalamin Metabolism Diagnosed by Somatic Cell Complementation Analysis. _SSRN_.**](https://ssrn.com/abstract=5557677)
+[Watkins, D., Zacharias, C., Arbabian-Urquilla, K., Ragupathi, K., Gilfix, B. M., Jimenez, D., Anastasio, N., Rivière, J.-B., & Rosenblatt, D. S. (2025). Identification of Variants of the MTR Gene in Patients with the cblG Inborn Error of Cobalamin Metabolism Diagnosed by Somatic Cell Complementation Analysis. _SSRN_.](https://ssrn.com/abstract=5557677)
