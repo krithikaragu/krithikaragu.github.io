@@ -1,5 +1,4 @@
 menu:
-- {name: 'publications', url: '/publications'}
 - {name: 'cv', url: '/cv'}
 
 social:
