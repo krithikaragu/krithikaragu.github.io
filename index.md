@@ -8,7 +8,6 @@ My current research interests lie at the intersection of market design and envir
 ---
 
 ##### Works in Progress
-
 **Permit Banking in Cap-and-Trade Markets with Auctions**
 
 <details>
@@ -20,4 +19,18 @@ My current research interests lie at the intersection of market design and envir
 
 </details>
 
+
 **Revenue-Maximizing Two-Sided Matching Mechanisms**
+<details>
+  <summary>Show abstract</summary>
+
+  <p>
+  I study the problem of a platform designing a revenue-maximizing matching mechanism in a two-sided market with a continuum of agents on both sides with multiplicative match values and linear utility. Random matching can increase revenues by lowering the informational rent paid by the platform; however, this is at the expense of higher match efficiency. I characterize an optimal solution to the two-sided revenue maximization matching problem when the market is symmetric.
+  </p>
+
+</details>
+
+
+**Multi-Unit Auctions of Permits: Evidence from Gujarat's Particulate Matter ETS**
+
+
